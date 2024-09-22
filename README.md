@@ -30,19 +30,14 @@ I'm a motivated programmer with focus on Python, Java and JavaScript who loves c
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Google Suite](https://img.shields.io/badge/-Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## 🌟 Top Projects
-
-### [Project Name 1] 
-![Project Badge](https://img.shields.io/badge/-Project-blueviolet?style=for-the-badge)
-- 📝 **Description:** [A brief description of the project and its purpose]
-- 🔧 **Tech Used:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### [Project Name 2]
-![Project Badge](https://img.shields.io/badge/-Project-ff69b4?style=for-the-badge)
-- 📝 **Description:** [Another awesome project]
-- 🔧 **Tech Used:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mmdoja/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmdoja@gmail.com)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
