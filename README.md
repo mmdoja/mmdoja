@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Mohammad Munirud Doja, or simply Munir
-I'm a motivated programmer with focus on Python, Java and JavaScript who loves creating both legacy and modern type application.
+I'm a motivated programmer with focus on Java, Python and JavaScript who loves creating both legacy and modern type application.
 
 - 🔭 I’m currently working in Software Development
-- 🌱 I’m currently learning Quarkus and Django
+- 🌱 I’m currently learning Angular and TypeScript
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 ## 🛠️ Languages and Tools
