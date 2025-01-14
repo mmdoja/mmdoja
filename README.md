@@ -2,7 +2,7 @@
 I'm a motivated programmer with focus on Java, Python and JavaScript who loves creating both legacy and modern type application.
 
 - 🔭 I’m currently working in Software Development
-- 🌱 I’m currently learning Angular and TypeScript
+- 🌱 Refining my technical skills
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 ## 🛠️ Languages and Tools
